@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css or a similar file */
+.mix-blend-overlay {
+  mix-blend-mode: overlay;
+}
